@@ -15,4 +15,3 @@ cd project-client
 
     mvn clean install
 
-
